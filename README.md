@@ -1,7 +1,3 @@
-# Student-Data-Structures-Management-System
-A Java-based system demonstrating manual implementation of linked-node data structures to manage, filter, and transfer student records between Stacks and Queues.
-
-
 # Student Data Structures Management System
 
 This project is a Java console application that demonstrates the practical application of **Stack** and **Queue** data structures. Instead of using the built-in Java Collections Framework, this project implements these structures manually using a custom **Linked Node** architecture.
